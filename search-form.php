@@ -11,7 +11,7 @@
     <title>Search Engine PHP-MySql</title>
   </head>
   <body>
-  <section>
+  <div class="container-fluid">
     <div class="row">
         <div class="col-md-12 p-5">
             <h1>Search Engine PHP-MySql</h1>
@@ -33,7 +33,7 @@
             </form>
         </div>
     </div>
-  </section>
+  </div>
 
 
     <!-- Optional JavaScript; choose one of the two! -->
