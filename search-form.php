@@ -13,7 +13,7 @@
   <body>
   <div class="container-fluid">
     <div class="row">
-        <div class="col-md-12 p-5">
+        <div class="col-12">
             <h1>Search Engine PHP-MySql</h1>
             <form>
             <div class="form-group">
